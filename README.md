@@ -23,7 +23,9 @@ Open a new google sheet in column A put your puppets names with underscores for 
 For exmaple:
 
 Hunter_A
+
 Hunter_B
+
 Hunter_C
 
 Then go File  -> Download -> Comma-Seperated vaules (.CVS)
